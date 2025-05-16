@@ -18,7 +18,7 @@ After that, press Ctrl+Alt+t and open your terminal. I'm currently using a Debia
   ```bash
   rm -r lib | rm pubspec.yaml
   ```
-- Finally run the bash script
+- Finally run the bash script (with which you will also download the images and fonts used in the app)
   ```bash
   git clone https://github.com/BabyMicky/LastBite.git
   ```
